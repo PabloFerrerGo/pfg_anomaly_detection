@@ -23,3 +23,4 @@ En la consola de comandos Anaconda Prompt:
   - `Model boosting` desarrolla los procedimientos para realizar Data Augmentation, Transfer Learning e Hyperparameter Tuning
   - `datos_naranjas.zip` se corresponde con el conjunto de datos propio que se ha creado para el caso práctico y utilizado también para la obtención de resultados en el apartado de Data Augmentation
   - `anomalib/models` contiene los modelos de Anomalib que se han utilizado y sus respectivas configuraciones, las cuales podemos encontrar en los archivos .yaml
+  - `results` en esta carpeta pueden encontrarse imágenes generadas por el código de la librería Anomalib, las cuales muestran los mismos resultados en las métricas que las que aparecen en las referidas al caso práctico del TFG.
