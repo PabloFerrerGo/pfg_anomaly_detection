@@ -7,8 +7,8 @@ En este repositorio se puede encontrar el código utilizado en el trabajo de fin
 En la consola de comandos Anaconda Prompt:
 
    ```sh
-   conda create -n anomalib_env2 python=3.8
-   conda activate anomalib_env2
+   conda create -n anomalib_env python=3.8
+   conda activate anomalib_env
    pip install anomalib
    pip install keras
    pip install tensorflow
