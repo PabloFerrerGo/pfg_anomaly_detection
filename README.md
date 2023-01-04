@@ -1,6 +1,6 @@
 # Introducción
 
-En este repositorio se puede encontrar el código utilizado en el trabajo de fin de grado "Detección de anomalías en imágenes, estudio del problema y aplicación de la librería Anomalib" realizado por Pablo Ferrer González. Este repositorio esta también documentado con la finanlidad de facilitar el uso de la librería Anomalib a un hipotético lector que quiere comenzar a desarrollar soluciones con dicha librería.
+En este repositorio se puede encontrar el código utilizado en el trabajo de fin de grado "Detección de anomalías en imágenes, estudio del problema y aplicación de la librería Anomalib" realizado por Pablo Ferrer González. Este repositorio esta también documentado con la finalidad de facilitar el uso de la librería Anomalib a un hipotético lector que quiere comenzar a desarrollar soluciones con dicha librería.
 
 # Instalación
 
